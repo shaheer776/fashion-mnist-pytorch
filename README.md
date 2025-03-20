@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a PyTorch-based deep learning model for classifying images from the Fashion MNIST dataset. The dataset consists of 60,000 training images and 10,000 test images, each belonging to one of 10 fashion categories.
+This repository provides a PyTorch-based deep learning model for classifying images from the Fashion MNIST dataset. The dataset consists of 60,000 images belonging to one of 10 fashion categories.
 
 ## Features
 
