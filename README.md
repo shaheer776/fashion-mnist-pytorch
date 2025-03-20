@@ -72,8 +72,11 @@ python visualize.py
 
 ```
 ├── fashion_mnist_pytorch/
+│   ├── dataset/  # Folder containing dataset files
+│   │   ├── fashion-mnist-train.csv  # Training dataset file
 │   ├── train.py  # Training script
 │   ├── evaluate.py  # Evaluation script
+│   ├── visualize.py  # Visualization script
 │   ├── README.md  # Project documentation
 ```
 
