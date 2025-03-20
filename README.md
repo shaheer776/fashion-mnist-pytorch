@@ -29,7 +29,7 @@ pip install torch torchvision matplotlib numpy
 
 ## Dataset
 
-The Fashion MNIST dataset can be downloaded from Kaggle: [Fashion MNIST Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist?select=fashion-mnist_test.csv). Alternatively, it will be automatically downloaded by `torchvision.datasets.FashionMNIST`. It consists of grayscale images (28x28 pixels) belonging to 10 classes:
+The Fashion MNIST dataset can be downloaded from Kaggle: [Fashion MNIST Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist?select=fashion-mnist_test.csv). It consists of grayscale images (28x28 pixels) belonging to 10 classes:
 
 1. **T-shirt/top**
 2. **Trouser**
