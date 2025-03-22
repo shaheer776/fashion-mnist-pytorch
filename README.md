@@ -63,6 +63,8 @@ The Fashion MNIST dataset can be downloaded from Kaggle: [Fashion MNIST Dataset]
 - Plotting Loss curve
 
   
+## **Directory Information**
+  
 ```
 ├── fashion_mnist_pytorch/
 │   ├── fashion-mnist-pytorch.ipynb  # Training jupyter notebook file
