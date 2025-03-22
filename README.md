@@ -6,10 +6,10 @@ This repository provides a PyTorch-based deep learning model for classifying ima
 
 ## Features
 
-- Data loading and preprocessing using `torchvision`
+- Data loading and preprocessing 
 - Neural network implementation using `torch.nn`
-- Training and evaluation scripts
-- Visualization of results
+- Training and evaluation model
+
 
 ## Requirements
 
