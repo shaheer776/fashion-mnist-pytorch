@@ -42,10 +42,25 @@ The Fashion MNIST dataset can be downloaded from Kaggle: [Fashion MNIST Dataset]
 9. **Bag**
 10. **Ankle boot**
 
+## **Model Architecture**
 
+[NN.pdf](https://github.com/user-attachments/files/19403208/NN.pdf)
 
-## **File Structure**
+## **Operations Performed**
 
+- Required modules are imported
+- Set the device to GPU (if available) and set manual seed
+- Visualize the Dataset to observe to get the overview
+- The dataset is split between train and test set
+- Creation of Dataloaders
+- Defining of model architecture
+- Setting up of Hyperparameters
+- Training of model
+- Evaluation of model
+- Optimizing the model through addition of batch norm, dropout, and L2 regularization to reduce overfitting
+- Plotting Loss curve
+
+  
 ```
 ├── fashion_mnist_pytorch/
 │   ├── fashion-mnist-pytorch.ipynb  # Training jupyter notebook file
