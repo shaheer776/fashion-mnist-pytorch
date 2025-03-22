@@ -44,7 +44,8 @@ The Fashion MNIST dataset can be downloaded from Kaggle: [Fashion MNIST Dataset]
 
 ## **Model Architecture**
 
-[NN.pdf](https://github.com/user-attachments/files/19403208/NN.pdf)
+![NN_page-0001](https://github.com/user-attachments/assets/12ef335a-5865-4102-8371-b5bddcd03900)
+
 
 ## **Operations Performed**
 
