@@ -42,31 +42,7 @@ The Fashion MNIST dataset can be downloaded from Kaggle: [Fashion MNIST Dataset]
 9. **Bag**
 10. **Ankle boot**
 
-## **Usage**
 
-### **Training the Model**
-
-**Run the training script:**
-
-```sh
-python train.py
-```
-
-### **Evaluating the Model**
-
-**Run the evaluation script:**
-
-```sh
-python evaluate.py
-```
-
-### **Visualizing Predictions**
-
-**Run the visualization script:**
-
-```sh
-python visualize.py
-```
 
 ## **File Structure**
 
